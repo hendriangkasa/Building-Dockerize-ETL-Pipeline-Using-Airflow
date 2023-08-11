@@ -1,0 +1,12 @@
+"id","status_name","status_detail","status"
+1,closecontact,dikarantina,closecontact_dikarantina
+2,closecontact,discarded,closecontact_discarded
+3,closecontact,meninggal,closecontact_meninggal
+4,confirmation,meninggal,confirmation_meninggal
+5,confirmation,sembuh,confirmation_sembuh
+6,probable,diisolasi,probable_diisolasi
+7,probable,discarded,probable_discarded
+8,probable,meninggal,probable_meninggal
+9,suspect,diisolasi,suspect_diisolasi
+10,suspect,discarded,suspect_discarded
+11,suspect,meninggal,suspect_meninggal
